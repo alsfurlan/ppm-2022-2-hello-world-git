@@ -4,3 +4,7 @@ document.querySelector('#clique-aqui').onclick = () => {
         alert(`Hello world, ${nome}!`);
     }
 };
+
+document.querySelector('#limpar').onclick = () => {
+    document.querySelector('#campo-nome').value = '';
+};
