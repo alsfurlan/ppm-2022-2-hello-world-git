@@ -4,3 +4,19 @@ body {
     color: greenyellow;
     background-color: black;
 }
+
+button {
+    background-color: black;
+    color: greenyellow;
+    border: 2px dashed greenyellow;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input {
+    background-color: greenyellow;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
